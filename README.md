@@ -1,15 +1,17 @@
-## Hi there 👋
+Bienvenido a mi perfil de GitHub. Soy un entusiasta de la tecnología y el desarrollo de software.
 
-**FaloCurso/FaloCurso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+- 🔭 Actualmente estoy haciendo un bootcamp de desarrollo web fullstack con Salesforce "Rural Camp" yrealizando proyectos interesantes
+- 🌱 Aprendiendo nuevas tecnologías
+- 💡 Compartiendo conocimiento y contribuyendo a la comunidad
 
-Here are some ideas to get you started:
+## 📌 Proyectos Destacados
+Aquí algunos de mis proyectos más importantes:
+- [Proyecto 1](https://github.com/tu-usuario/proyecto-1) - Breve descripción.
+- [Proyecto 2](https://github.com/tu-usuario/proyecto-2) - Breve descripción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contáctame
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 📧 Email: falofr.gmail.com
+
+¡Gracias por visitar mi perfil! 😃
